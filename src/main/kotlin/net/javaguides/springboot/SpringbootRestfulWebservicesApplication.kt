@@ -17,11 +17,11 @@ import org.springframework.boot.runApplication
 		contact = Contact(
 			name = "Óscar Grande",
 			email = "oscargrgm@gmail.com",
-			url = "https://www.linkedin.com/in/oscargrgm/"
+			url = "https://github.com/oscargrgm/spring-boot-user-management-tool"
 		),
 		license = License(
 			name = "Apache 2.0",
-			url = "https://www.apache.org/licenses/LICENSE-2.0.html"
+			url = "https://github.com/oscargrgm/spring-boot-user-management-tool/blob/main/LICENSE"
 		)
 	),
 	externalDocs = ExternalDocumentation(
